@@ -2,6 +2,4 @@
 
 易语言调用 GoLang 编译的 DLL 示例
 
-```bash
-make dll
-```
+![screenshot.png](screenshot.png)
